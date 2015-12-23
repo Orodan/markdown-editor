@@ -1,3 +1,3 @@
 # Markdown-editor
 
-Markdown editor using Node.js
+Realtime Markdown editor using Node.js
